@@ -1,5 +1,9 @@
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
+
 # 💫 About Me:
-I'm a Mobile Application Developer with 5 years of experience in the software industry, specializing in Flutter. I have a passion for coding, solving technical challenges, and taking full ownership of app development. Skilled in Flutter, Swift, Xamarin, Dart, React.js, Next.js, Node.js, and MongoDB, I handle UI/UX design, development, and API integration. I thrive on learning new skills and tackling complex systems to build high-quality, user-friendly applications.
+ I'm a Mobile Application Developer with 5 years of experience in the software industry, specializing in Flutter. I have a passion for coding, solving technical challenges, and taking full ownership of app development. Skilled in Flutter, Swift, Xamarin, Dart, React.js, Next.js, Node.js, and MongoDB, I handle UI/UX design, development, and API integration. I thrive on learning new skills and tackling complex systems to build high-quality, user-friendly applications.
 
 
 # 💻 Tech Stack:
